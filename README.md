@@ -52,4 +52,4 @@ Ce TD est composé dd **l'énoncé** et dee **corrigés** pour **Excel**, **Libr
 #
 ✅ Notions de gestion commerciale (HT, TVA, catégories)
 #
-👤 Auteur : SERRES Régis Enseignant - Lycée Estournelles de Constant, La Flèche (72) GitHub : @serres-regis-prof-estournelles
+👤 Auteur : SERRES Régis - Enseignant - Lycée Estournelles de Constant, La Flèche (72) GitHub : @serres-regis-prof-estournelles
